@@ -11,20 +11,11 @@
 // permitted to do so under the terms of a subsisting license agreement
 // from ARM Limited.
 //
-//      SVN Information
-//
-//      Checked In          : $Date: 2013-04-10 14:51:18 +0100 (Wed, 10 Apr 2013) $
-//
-//      Revision            : $Revision: 243489 $
-//
-//      Release Information : Cortex-M System Design Kit-r1p0-01rel0
-//
 //-----------------------------------------------------------------------------
 //
 //------------------------------------------------------------------------------
 //  Abstract            : AHB BusMatrix top level README file
 //------------------------------------------------------------------------------
-
 
 Overview
 ------------
